@@ -2,7 +2,7 @@
 Beta abierta de la version 3.5 de Scan
 
 ## Que es
-Para los que no lo sepan, yo programé un script muy bueno llamado ```Scam```, que es un escaner de puertos. El caso es que este script va por la version 3.0 y las versiones van de 5 en 5, tengo pensado que para la version 4.0 añadirle el estado de los puertos:
+Para los que no lo sepan, yo programé un script muy bueno llamado ```Scan```, que es un escaner de puertos. El caso es que este script va por la version 3.0 y las versiones van de 5 en 5, tengo pensado que para la version 4.0 añadirle el estado de los puertos:
 ```
 Estado : open                                                                                                
 Estado : open                                                                                                
